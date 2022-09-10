@@ -15,5 +15,5 @@ Also was created like, pass, and save for later buttons.
 
 > I've used a DefaultTabController class to coordinate and keep tab and content in sync and a TabBarView class to display widgets as part of a given tab, and also i've used [Step Progress Indicator](https://pub.dev/packages/step_progress_indicator) package.
 
-<img src="https://user-images.githubusercontent.com/70320254/189461696-59db3dd2-aacf-4f44-b93a-929d3a916079.png" width="300" /> | <img src="https://user-images.githubusercontent.com/70320254/189461523-9645fed4-4d0d-4da1-bf9a-e5f13938ceca.png" width="300" /> | <img src="https://user-images.githubusercontent.com/70320254/189461526-3e1f22e9-d42f-4616-a8f2-a66eb3955d67.png" width="300" />
+<img src="https://user-images.githubusercontent.com/70320254/189461696-59db3dd2-aacf-4f44-b93a-929d3a916079.png" width="250" /> | <img src="https://user-images.githubusercontent.com/70320254/189461523-9645fed4-4d0d-4da1-bf9a-e5f13938ceca.png" width="250" /> | <img src="https://user-images.githubusercontent.com/70320254/189461526-3e1f22e9-d42f-4616-a8f2-a66eb3955d67.png" width="250" />
 
